@@ -1,0 +1,44 @@
+body {
+	font-family: Century Gothic;
+}
+.intro {
+	padding: 330px;
+}
+.intro a{
+	padding: 30px;
+	font-size:20px;
+	text-decoration: none;
+	color: black;
+}
+.intro a:hover {
+	color: gray;
+}
+.paa {
+	border-top: .5px #000 solid;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa:hover {
+    opacity: 1.7;
+}
+.fa-facebook {
+    background: white;
+    color: black;
+}
+.fa-twitter {
+    background: white;
+    color: black;
+}
+.fa-youtube {
+    background: white;
+    color: black;
+}
+.fa-instagram {
+    background: white;
+    color: black;
+}
